@@ -3,10 +3,10 @@
 This repository is to document my coding journey.
 
 ## Currently learning
-Javascript
-NodeJS
-React + Redux
-MongoDB
+1.Javascript
+2.NodeJS
+3.React + Redux
+4.MongoDB
 
 ### Some Backstory
 I graduated in 2012 from the University of Lafayette with a bachelors degree in Industrial Design. What I usually tell people is that my degree is in Product Design because 90% of the time "Industrial Design" gives back a confused look. Especially in South Louisiana, where I'm from, where it also evokes thoughts of the oil or other gas industry related fields.
