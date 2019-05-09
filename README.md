@@ -2,7 +2,13 @@
 
 This repository is to document my coding journey.
 
-#### Some Backstory
+## Currently learning
+Javascript
+NodeJS
+React + Redux
+MongoDB
+
+### Some Backstory
 I graduated in 2012 from the University of Lafayette with a bachelors degree in Industrial Design. What I usually tell people is that my degree is in Product Design because 90% of the time "Industrial Design" gives back a confused look. Especially in South Louisiana, where I'm from, where it also evokes thoughts of the oil or other gas industry related fields.
 
 After graduation, it was near impossible to find a job IN the industrial design field here in Louisiana. A couple other job opportunities out of state did not materialize so I was left to find work here in something outside of my degree. I moved home to Eunice, LA in 2014 with my wife and began working for my Father's business. When I began our main line of work was contract work for oil field companies. I started off doing data entry and working with autocad electrical drawings but over time have transitioned into a managing role, over seeing day to day issues and keeping ahead of our finances.
