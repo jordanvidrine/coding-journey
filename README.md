@@ -11,4 +11,4 @@ Now -- our company is no longer in the oil field, I am no longer working full ti
 
 Squeezed into all the open spaces over these years I have also worked hard at a side project of mine which is music I make under the name Skies Speak. The music is heavily oriented around synths, sequencers, drum machines, and samplers. I am currently also working on a project that is being funded by a grant that I recieved called Art Spark, through the AcA and the Lafayette Economic Development Authority.
 
-If you are interested, you can check it out [here.](www.skiesspeak.com)
+If you are interested, you can check it out [here.](http://www.skiesspeak.com)
