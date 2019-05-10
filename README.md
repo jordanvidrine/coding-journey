@@ -1,4 +1,4 @@
-# coding-journey
+# Coding Journey
 
 This repository is to document my coding journey.
 
