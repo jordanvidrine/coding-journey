@@ -16,6 +16,6 @@ After graduation, it was near impossible to find a job IN the industrial design 
 
 Now -- our company is no longer in the oil field, I am no longer working full time, and my interests have subsided with where I am at. I am preparing for a career change and since January of this year (2019,) I have begun to learn Javascript and fullstack web dev at a self-taught pace, averaging about 20 hours of learning a week.
 
-Squeezed into all the open spaces over these years I have also worked hard at a side project of mine which is music I make under the name Skies Speak. The music is heavily oriented around synths, sequencers, drum machines, and samplers. I am currently also working on a project that is being funded by a grant that I recieved called Art Spark, through the AcA and the Lafayette Economic Development Authority.
+I have also worked hard at a side project of mine which is music I make under the name Skies Speak. The music is heavily oriented around synths, sequencers, drum machines, and samplers. I am currently also working on a project that is being funded by a grant that I recieved called Art Spark, through the AcA and the Lafayette Economic Development Authority.
 
 If you are interested, you can check it out [here.](http://www.skiesspeak.com)
