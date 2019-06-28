@@ -1,4 +1,4 @@
-####THIS HAS BEEN DEPRECIATED PLEASE VISIT [jordanvidrine.github.io/blog](jordanvidrine.github.io/blog)
+####THIS HAS BEEN DEPRECIATED PLEASE VISIT [jordanvidrine.github.io/blog](https://jordanvidrine.github.io/blog/)
 
 # Coding Journey
 
