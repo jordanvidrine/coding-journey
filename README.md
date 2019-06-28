@@ -1,3 +1,5 @@
+####THIS HAS BEEN DEPRECIATED PLEASE VISIT [jordanvidrine.github.io/blog](jordanvidrine.github.io/blog)
+
 # Coding Journey
 
 This repository is to document my coding journey.
